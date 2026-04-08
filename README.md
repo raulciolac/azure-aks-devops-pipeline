@@ -30,7 +30,7 @@ terraform/ - infrastructure as code
 4. Kubernetes deploys the application  
 
 ## Notes
-Replace YOUR_DOCKERHUB/aks-app with your Docker Hub username.
+Replace YOUR_DOCKERHUB/aks-app with your Docker Hub username and repository name (e.g. username/aks-app).
 
 ## Author
 Raul Ciolac
